@@ -1,0 +1,27 @@
+{
+  "name": "docker-suite",
+  "version": "1.0.0",
+  "description": "A real Docker API for running and building containers with Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NonCreature0714/docker-suite.git"
+  },
+  "keywords": [
+    "docker",
+    "containers"
+  ],
+  "author": "William W Brubaker (NonCreature0714)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NonCreature0714/docker-suite/issues"
+  },
+  "homepage": "https://github.com/NonCreature0714/docker-suite#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0"
+  }
+}
